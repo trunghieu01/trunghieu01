@@ -10,6 +10,9 @@ I have been learning to code for 4 years. I started with C but really fell in lo
 *   ✉️  You can contact me at [votrunghieu.dev@gmail.com](mailto:votrunghieu.dev@gmail.com)
 *   🤝  I'm open to collaborating on interesting projects
 
+<a href="https://www.github.com/trunghieu01" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/trunghieu01?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 ### Skills
 
 <p align="left">
