@@ -6,6 +6,8 @@ JAVA Developer
 
 I have been learning to code for 4 years. I started with C but really fell in love with Java and Spring, and I learned a number of other frameworks and languages ​​such as: JavaScript, React Native, .Net,...
 
+I'm learning .Net
+
 *   🌍  I'm based in Ho Chi Minh City
 *   ✉️  You can contact me at [votrunghieu.dev@gmail.com](mailto:votrunghieu.dev@gmail.com)
 *   🤝  I'm open to collaborating on interesting projects
